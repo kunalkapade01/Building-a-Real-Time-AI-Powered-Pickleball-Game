@@ -1,6 +1,8 @@
 # 🏓 Spanner Omni Pickleball Game
 ### Real-Time Agentic AI-Powered Pickleball Game and Tactical Analytics Platform
 
+![Pickleball Game Arena](assets/pickleball-game.webp)
+
 ## 🌟 Project Overview
 
 An interactive, AI-powered Pickleball Tactical Game Arena that combines real-time gameplay simulation with intelligent sports analytics using Google Cloud technologies. Built with Python and Flask, the platform integrates Google Cloud Spanner Omni's relational and graph capabilities with Google Gemini to transform gameplay events into structured match intelligence. From simulating realistic rallies to analysing shot transitions and generating context-aware tactical recommendations, the project demonstrates how Agentic AI and graph-based data engineering can bring intelligence to interactive sports applications.
