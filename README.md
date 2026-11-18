@@ -1,7 +1,6 @@
 # 🏓 Spanner Omni Pickleball Game
 ### Real-Time Agentic AI-Powered Pickleball Game and Tactical Analytics Platform
 
-![Pickleball Game Arena](assets/pickleball-game.webp)
 
 ## 🌟 Project Overview
 
