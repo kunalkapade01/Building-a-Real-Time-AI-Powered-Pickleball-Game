@@ -2,7 +2,7 @@
 ### Real-Time Agentic AI-Powered Pickleball Game and Tactical Analytics Platform
 
 <p align="center">
-  <img src="assets/pickleball-game.webp" alt="AI-Powered Pickleball Game Arena" width="100%">
+  <img src="assets/pickleball-game.webp" alt="Pickleball Game Arena" width="100%">
 </p>
 
 ## 🌟 Project Overview
