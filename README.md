@@ -1,9 +1,7 @@
+<img width="720" height="490" alt="pickleball image" src="https://github.com/user-attachments/assets/dd41df23-6e0c-484b-8150-c406ba972c98" />
+
 # 🏓 Spanner Omni Pickleball Game
 ### Real-Time Agentic AI-Powered Pickleball Game and Tactical Analytics Platform
-
-<p align="center">
-  <img src="assets/pickleball-game.webp" alt="Pickleball Game Arena" width="100%">
-</p>
 
 ## 🌟 Project Overview
 
